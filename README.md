@@ -2,7 +2,7 @@
 
 ## Proposta
 
-Este simstema foi criado como projeto final da matéria de Oficina de Integração 1.
+Este sistema foi criado como projeto final da matéria de Oficina de Integração 1.
 
 Tinha como objetivo a criação de um sistema microcontrolado. Dessa forma, como o grupo já tinha experiência com o ESP32, foi escolhido a proposta de fazer uma central de segurança residencial, a qual permitiria o usuário ter controle remoto do sistema via Telegram.
 
